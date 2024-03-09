@@ -11,3 +11,12 @@ public class SchoolProjectApplication {
 	}
 
 }
+
+//APIs
+//GET /school
+//GET /school/{school-name}/classes
+//GET /school/{school-name}/class/{class-name}/subjects
+//GET /school/{school-name}/class/{class-name}/subject/{subject-name}
+
+
+// models -- school, class, subjects
