@@ -1,0 +1,15 @@
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/service/mapper/SchoolDtoToEntity.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/service/mapper/SchoolDtoToModel.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/repo/SchoolRepo.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/controller/mapper/SchoolModelToDto.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/repo/entity/ClassEntity.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/repo/entity/SchoolEntity.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/service/SchoolServiceImpl.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/repo/entity/SubjectEntity.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/service/SchoolService.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/service/dto/SchoolDto.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/controller/model/SchoolModel.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/SchoolProjectApplication.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/controller/SchoolController.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/controller/SchoolApi.java
+/Users/rashigambhir/Documents/Spring-demo/school-project/src/main/java/com/example/schoolproject/repo/mapper/SchoolEntityToDto.java

@@ -19,4 +19,6 @@ public class SchoolProjectApplication {
 //GET /school/{school-name}/class/{class-name}/subject/{subject-name}
 
 
-// models -- school, class, subjects
+// models -- school, class, subjects --- java objects -- controller to service
+// dto -- data transfer obj - controller to service
+// entities - school, class, subject, student --- service to repo
